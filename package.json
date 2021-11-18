@@ -1,0 +1,22 @@
+{
+  "name": "loja-virtual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "noonw"
+  },
+  "keywords": [
+    "luis.com"
+  ],
+  "author": "luisbrescia",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.7.0"
+  }
+}
