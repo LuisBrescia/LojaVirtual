@@ -1,1 +1,1 @@
-"# LojaVirtual" 
+"# LojaVirtual." 
